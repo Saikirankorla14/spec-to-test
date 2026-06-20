@@ -1,5 +1,7 @@
 # spec→test
 <img width="1917" height="965" alt="image" src="https://github.com/user-attachments/assets/812c97ca-ac32-4be3-85a5-ad28d20429a9" />
+<img width="1915" height="967" alt="image" src="https://github.com/user-attachments/assets/480bb01a-e331-4470-acfc-fd685e9ea2bb" />
+
 
 
 **Paste a Python function. Get an adversarial pytest suite. Watch it actually run.**
