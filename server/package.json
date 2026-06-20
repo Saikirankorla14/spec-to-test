@@ -1,0 +1,21 @@
+{
+  "name": "spec-to-test-server",
+  "version": "1.0.0",
+  "description": "Backend for Spec-to-Test Generator: turns Python functions or OpenAPI specs into executed pytest edge-case suites with real coverage gap analysis.",
+  "type": "module",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "node --watch src/index.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "groq-sdk": "^0.7.0",
+    "uuid": "^9.0.1"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
